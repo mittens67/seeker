@@ -1,0 +1,2 @@
+TBD:
+- Encode keys - put in .env, need to add to netlify, for now you can still see the keys in the inspect. Build API Proxy
