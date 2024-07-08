@@ -9,7 +9,7 @@ Features:
 Tech used:
 - React + hooks ( useContext, useLocation, useEffect, useState)
 - Tailwind CSS
-- Google Custom Search API
+- Google Custom Search JSON API
 
 
 Limitation:
